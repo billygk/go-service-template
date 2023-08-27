@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+# Custom project files and folders
+.idea/
+.vscode/
+go-service-a/vendor/
+go-service-b/vendor/
+go-service-c/vendor/
+go-gateway/vendor/
