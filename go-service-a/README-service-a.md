@@ -11,6 +11,7 @@ endpoints exposed:
 
 Follwing the follwing directory structure:
 
+```
 project/
 ├── cmd/
 │   └── main.go
@@ -29,3 +30,5 @@ project/
 ├── vendor/
 ├── go.mod
 └── go.sum
+```
+

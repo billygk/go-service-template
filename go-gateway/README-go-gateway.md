@@ -4,6 +4,7 @@ We will use gin as the web framework.
 
 Follwing the follwing directory structure:
 
+```
 project/
 ├── cmd/
 │   └── main.go
@@ -24,7 +25,7 @@ project/
 │       └── router.go
 ├── pkg/
 └── vendor/
-
+```
 
 Gateway should have the following features:
 - ratelimit
